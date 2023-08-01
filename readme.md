@@ -7,7 +7,7 @@ Sei Network is the first orderbook-specific L1 blockchain. The chain emphasizes 
 # seichain
 **seichain** is a blockchain built using Cosmos SDK and Tendermint. It is built using the Cosmos SDK and Tendermint core, and features a built-in central limit orderbook (CLOB) module. Decentralized applications building on Sei can build on top of the CLOB, and other Cosmos-based blockchains can leverage Sei's CLOB as a shared liquidity hub and create markets for any asset. Sei Shared Liquidity Model
 
-Designed with developers and users in mind, Sei serves as the infrastructure and shared liquidity hub for the next generation of DeFi. Apps can easily plug-and-play to trade on Sei orderbook infrastructure and access pooled liquidity from other apps. To prioritize developer experience, Sei Network has integrated the wasmd module to support CosmWasm smart contracts.
+Designed with developers and users in mind, Sei serves as the infrastructure and shared liquidity hub for the next generation of DeFi
 
 # Documentation
 For the most up to date documentation please visit https://docs.seinetwork.io
