@@ -1,4 +1,4 @@
-# Sei
+# Sei scam
 
 ![Banner!](assets/SeiLogo.png)
 
