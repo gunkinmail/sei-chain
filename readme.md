@@ -1,4 +1,4 @@
-# Sei scam
+# Sei chain
 
 ![Banner!](assets/SeiLogo.png)
 
