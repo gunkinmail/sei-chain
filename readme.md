@@ -35,7 +35,7 @@ Developers, traders, and users can all connect to Sei as ecosystem partners bene
 **Minimum**
 * 32 GB RAM
 * 1 TB NVME SSD
-* 16 Cores (modern CPU's)
+* 16 Cores (modern CPU's
 
 ## Operating System 
 
